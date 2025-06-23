@@ -1,0 +1,8 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.codenamegoon.duze",
+      "sha256_cert_fingerprints": ["27:E0:90:B2:68:78:54:CC:0D:F4:79:58:21:CC:CA:F6:1C:B0:66:3A:80:F5:83:CA:CA:D1:77:29:E9:EE:2D:8C"]
+    }
+  }]
